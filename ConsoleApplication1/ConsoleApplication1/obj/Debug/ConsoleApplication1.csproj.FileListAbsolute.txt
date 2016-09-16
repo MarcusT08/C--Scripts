@@ -1,0 +1,2 @@
+C:\Users\turnem26\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Turnem26\Desktop\CSG-114\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
